@@ -21,6 +21,16 @@ The goal was to clean and prepare the dataset for analysis. Using Python (pandas
 - Removed duplicate rows
 - Standardized inconsistent data formats (text cleaning, categorical normalization)
 - Saved the cleaned dataset for further analysis
+## How to Run
+  - Run in Google Colab (Recommended)
+
+       1.Open my notebook in Colab: Task1_Data_Cleaning.ipynb
+
+       2.Upload the raw dataset (3) Sentiment dataset.csv) to the Colab session.
+
+       3.Run all cells step by step.
+
+       4.The cleaned dataset will be saved as sentiment_dataset_cleaned.csv.
 
 ## Tools Used
 - Python
